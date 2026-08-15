@@ -1,5 +1,6 @@
-# Recognize-and-dump-Recommendations-to-your-media-
-A simple plugin.
+# Bili Interest Tuner
+A browser extension that auto-extracts keywords from your browsing history to build a personal interest profile, then applies it directly to your Bilibili feed. Take back control from the algorithm—get only what you want, block everything you don't.
+
 # B站兴趣调谐器 · Bili Interest Tuner
 
 > ✦ Blades Original ✦ — 原创作品，转载 / 衍生请注明出处
